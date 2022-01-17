@@ -1,0 +1,4 @@
+Halaman Administrator
+Link : http://nama_website/administrator
+User : admin@gmail.com
+Password : admin
